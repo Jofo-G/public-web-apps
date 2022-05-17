@@ -1,4 +1,4 @@
-This is a dynamic form project, which dynamically renders a form based on the definition.
+This is a dynamic form project, which dynamically renders a form based on the definition that is defined in the form.json file.
 
 RUNNING:
     If you wish to start the server together with backend run "run.sh" which installs all the necessary modules and then
