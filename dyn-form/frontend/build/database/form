@@ -1,0 +1,14 @@
+[
+  {
+    "id": "name",
+    "fieldName": "Name"
+  },
+  {
+    "id": "email",
+    "fieldName": "E-mail"
+  },
+  {
+    "id": "enquiery",
+    "fieldName": "Enquiery"
+  }
+]
